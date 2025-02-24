@@ -1,0 +1,19 @@
+#constants introduced
+#this is an example of a constant
+
+PI = 3.1415927 #this is a constants
+
+#constants are declared in full caps
+#not like variables which are not in caps
+
+pie = 'apple' #this is a variable
+
+#some thing in the universe are constant
+#example: basketball
+
+FIELDGOAL = 2 # the value never changes
+DUNKSHOT = 2
+FREETHROUGH = 1
+THREEPOINTER = 3
+
+Team1player1FOULS= 0
