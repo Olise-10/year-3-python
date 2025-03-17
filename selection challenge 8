@@ -1,0 +1,12 @@
+print("select player 1")
+print("select player 2")
+print("select online")
+choice = input("which do you choose:")
+if choice == "player 1":
+  print ("thank you for choosing player 1")
+elif choice == "player 2":
+  print("thank yuo for choosing player 2")
+elif choice == "online":
+  print("thank yuo for choosing to play online")
+else:
+  print("invalid choice")
