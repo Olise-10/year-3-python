@@ -1,0 +1,3 @@
+number=int(input("pick a number below 100?:"))
+for i in range(number, 0, -1):
+   print(i)
